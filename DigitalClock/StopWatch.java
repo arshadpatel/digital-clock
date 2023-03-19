@@ -50,7 +50,7 @@ public class StopWatch implements ActionListener{
 	
 	StopWatch(){
 		
-		String filename="Path to digital-7\\Digital Clock\\src\\com\\digitalwatch\\digital-7.ttf";
+		String filename="Path to digital-7\\Digital Clock\\src\\com\\digitalwatch\\digital-7.ttf"; 
 		try {
 			myStream = new BufferedInputStream(new FileInputStream(filename));
             f = Font.createFont(Font.TRUETYPE_FONT, myStream);
