@@ -37,7 +37,7 @@ public class Clock{
 		panel.setBounds(33, 100, 360, 160); 
 		panel.setBackground(Color.black);
 		
-		String filename="Path to digital-7\\Digital Clock\\src\\com\\digitalwatch\\digital-7.ttf"; 
+		String filename = "D:\\Projects\\Java\\digital-clock\\DigitalClock\\digital-7.ttf"; 
 		try {
 			myStream = new BufferedInputStream(new FileInputStream(filename));
             f = Font.createFont(Font.TRUETYPE_FONT, myStream);
