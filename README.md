@@ -38,11 +38,16 @@ To use the Digital Clock application:
 
 ## Screenshots
 
-![001](Images/001.png)<br>
-![002](Images/002.png)<br>
-![003](Images/003.png)<br>
-![004](Images/004.png)<br>
+![001](Images/001.png)
+<br><br>
+![002](Images/002.png)
+<br><br>
+![003](Images/003.png)
+<br><br>
+![004](Images/004.png)
+<br><br>
 ![005](Images/005.png)
+<br><br>
 
 ## Technical Details
 
